@@ -255,9 +255,7 @@
 [4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
 - [VidSrc](https://rentry.org/vidsrc)
 [VidSrc](https://rentry.org/vidsrc)
-### Free w/ Adsâ€‹
-
-[â€‹](https://fmhy.net/videopiracyguide#free-w-ads)
+### Free w/ Ads
 - [YouTube Movie Hosts](https://fmhy.net/storage#youtube-movies)
 [YouTube Movie Hosts](https://fmhy.net/storage#youtube-movies)
 - [Tubi](https://tubitv.com/), [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
@@ -295,9 +293,8 @@
 [MovieXFilm](https://moviexfilm.com/)
 - [Plex](https://watch.plex.tv/)
 [Plex](https://watch.plex.tv/)
-### Anime Streamingâ€‹
+### Anime Streaming
 
-[â€‹](https://fmhy.net/videopiracyguide#anime-streaming)
 - [Wotaku](https://wotaku.wiki/websites), [](https://discord.gg/vShRGx8ZBC)
 [Wotaku](https://wotaku.wiki/websites)
 [](https://discord.gg/vShRGx8ZBC)
@@ -430,9 +427,8 @@
 [](https://discord.com/invite/m9zbVyQ)
 - [AnimeMusicVideos](https://www.animemusicvideos.org/)
 [AnimeMusicVideos](https://www.animemusicvideos.org/)
-### Cartoon Streamingâ€‹
+### Cartoon Streaming
 
-[â€‹](https://fmhy.net/videopiracyguide#cartoon-streaming)
 - [WCO](https://www.wco.tv/), [2](https://www.wcofun.net/), [3](https://www.wcostream.tv/)
 [WCO](https://www.wco.tv/)
 [2](https://www.wcofun.net/)
@@ -454,9 +450,8 @@
 [b98](https://www.b98.tv/)
 - [ToonamiAftermath](https://www.toonamiaftermath.com/)
 [ToonamiAftermath](https://www.toonamiaftermath.com/)
-### TV Streamingâ€‹
+### TV Streaming
 
-[â€‹](https://fmhy.net/videopiracyguide#tv-streaming)
 - [TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)
 [TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)
 - [CouchTuner](https://www.couchtuner.show/), [](https://t.me/+tPEqeXLobAo4YTZh)
@@ -499,9 +494,8 @@
 [No-Laughing Batsu Game List](https://redd.it/2fgm9p)
 - [TW Classics](https://twcclassics.com/)
 [TW Classics](https://twcclassics.com/)
-### Drama Streamingâ€‹
+### Drama Streaming
 
-[â€‹](https://fmhy.net/videopiracyguide#drama-streaming)
 - [Chinese Drama Sites](https://www.reddit.com/r/CDrama/wiki/streaming)
 [Chinese Drama Sites](https://www.reddit.com/r/CDrama/wiki/streaming)
 - [EverythingMoe](https://everythingmoe.com/#section-drama), [2](https://everythingmoe.org/#section-drama), [](https://discord.gg/GuueaDgKdS)
@@ -560,9 +554,8 @@
 [IQ](https://www.iq.com/)
 - [OnDemandChina](https://www.ondemandchina.com/)
 [OnDemandChina](https://www.ondemandchina.com/)
-### Specialty Streamingâ€‹
+### Specialty Streaming
 
-[â€‹](https://fmhy.net/videopiracyguide#specialty-streaming)
 - [Documentary Sites](https://fmhy.net/edupiracyguide#documentaries)
 [Documentary Sites](https://fmhy.net/edupiracyguide#documentaries)
 - [RareFilmm](https://rarefilmm.com/)
@@ -710,14 +703,7 @@
 [2](https://github.com/joric/bandersnatch)
 - [Audiovault](https://audiovault.net/)
 [Audiovault](https://audiovault.net/)
-### Educational Streamingâ€‹
-
-[Educational Streaming](https://fmhy.net/edupiracyguide#streaming)
-[â€‹](https://fmhy.net/videopiracyguide#educational-streaming)
-### Video Streamingâ€‹
-
-[â€‹](https://fmhy.net/videopiracyguide#video-streaming)
-TIP
+### Educational Streaming
 
 These are good for finding classic, obscure, and short films.
 
@@ -782,12 +768,8 @@ These are good for finding classic, obscure, and short films.
 [Playeur](https://playeur.com/)
 - [Rumble](https://rumble.com/)
 [Rumble](https://rumble.com/)
-## Live TV / Sportsâ€‹
+## Live TV / Sports
 
-[â€‹](https://fmhy.net/videopiracyguide#live-tv-sports)
-### Live TVâ€‹
-
-[â€‹](https://fmhy.net/videopiracyguide#live-tv)
 - [TheTVApp](https://thetvapp.to/)
 [TheTVApp](https://thetvapp.to/)
 - [TOTV](http://totv.org/channels)
@@ -868,9 +850,8 @@ These are good for finding classic, obscure, and short films.
 [KCNA](https://kcnawatch.us/korea-central-tv-livestream)
 - [TitanTV](https://titantv.com/)
 [TitanTV](https://titantv.com/)
-### Live Sportsâ€‹
+### Live Sports
 
-[â€‹](https://fmhy.net/videopiracyguide#live-sports)
 - [Streamed](https://streamed.su/), [](https://discord.gg/streamed)
 [Streamed](https://streamed.su/)
 [](https://discord.gg/streamed)
@@ -1032,9 +1013,8 @@ These are good for finding classic, obscure, and short films.
 [F1 Dash](https://f1-dash.com/)
 - [TheHighLow](https://thehighlow.io/)
 [TheHighLow](https://thehighlow.io/)
-### Sports Replaysâ€‹
+### Sports Replays
 
-[â€‹](https://fmhy.net/videopiracyguide#sports-replays)
 - [720Pier](https://720pier.ru/)
 [720Pier](https://720pier.ru/)
 - [FullReplays](https://www.fullreplays.com/)
@@ -1113,9 +1093,8 @@ These are good for finding classic, obscure, and short films.
 [F1 Full Races](https://f1fullraces.com/)
 - [Rugby24](https://rugby24.net/)
 [Rugby24](https://rugby24.net/)
-### IPTV Toolsâ€‹
+### IPTV Tools
 
-[â€‹](https://fmhy.net/videopiracyguide#iptv-tools)
 - [Awesome IPTV](https://github.com/iptv-org/awesome-iptv)
 [Awesome IPTV](https://github.com/iptv-org/awesome-iptv)
 - [Android IPTV Players](https://fmhy.net/android-iosguide#android-live-tv)
@@ -1158,9 +1137,8 @@ These are good for finding classic, obscure, and short films.
 [M3u8DL-CLI](https://nilaoda.github.io/N_m3u8DL-CLI/)
 - [IPTV Check](https://github.com/peterpt/IPTV-CHECK)
 [IPTV Check](https://github.com/peterpt/IPTV-CHECK)
-## Smart TV / Firestickâ€‹
+## Smart TV / Firestick
 
-[â€‹](https://fmhy.net/videopiracyguide#smart-tv-firestick)
 - [Tizentube](https://tizentube.vercel.app/)
 [Tizentube](https://tizentube.vercel.app/)
 - [webOS Homebrew](https://www.webosbrew.org/), [Guide](https://gist.github.com/VVispy/044cd8005260b270728e1d9aa8f6af51)
@@ -1188,9 +1166,8 @@ These are good for finding classic, obscure, and short films.
 [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram)
 - [ChanSort](https://github.com/PredatH0r/ChanSort)
 [ChanSort](https://github.com/PredatH0r/ChanSort)
-### Android TVâ€‹
+### Android TV
 
-[â€‹](https://fmhy.net/videopiracyguide#android-tv)
 - [Awesome Android TV](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps)
 [Awesome Android TV](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps)
 - [SmartTube](https://smarttubeapp.github.io/), [](https://github.com/yuliskov/SmartTube)
@@ -1215,18 +1192,7 @@ These are good for finding classic, obscure, and short films.
 - [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher), [Projectivy Launcher](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/)
 [Leanback on Fire](https://github.com/tsynik/LeanbackLauncher)
 [Projectivy Launcher](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/)
-## Android Streamingâ€‹
-
-[Android Streaming](https://fmhy.net/android-iosguide#android-streaming)
-[â€‹](https://fmhy.net/videopiracyguide#android-streaming)
-## iOS Streamingâ€‹
-
-[iOS Streaming](https://fmhy.net/android-iosguide#ios-streaming)
-[â€‹](https://fmhy.net/videopiracyguide#ios-streaming)
-## Download Sitesâ€‹
-
-[â€‹](https://fmhy.net/videopiracyguide#download-sites)
-TIP
+## Android Streamingâ
 
 Useredirect bypassersto skip link shorteners
 
@@ -1379,9 +1345,8 @@ Useredirect bypassersto skip link shorteners
 [Jackass Vault](https://discord.gg/ZH5MjcKmJJ)
 - [IMDb-Scout-Mod](https://greasyfork.org/en/scripts/407284)
 [IMDb-Scout-Mod](https://greasyfork.org/en/scripts/407284)
-### Drives / Directoriesâ€‹
+### Drives / Directories
 
-[â€‹](https://fmhy.net/videopiracyguide#drives-directories)
 - [StarK ClouD](https://rentry.co/FMHYBase64#stark-cloud), [](https://t.me/starkmediahub)
 [StarK ClouD](https://rentry.co/FMHYBase64#stark-cloud)
 [](https://t.me/starkmediahub)
@@ -1403,10 +1368,7 @@ Useredirect bypassersto skip link shorteners
 [Sinflix](https://rentry.co/FMHYBase64#sinflix)
 - [Mobile movies request bot](https://t.me/cc_mmrequestbot)
 [Mobile movies request bot](https://t.me/cc_mmrequestbot)
-### Anime Downloadingâ€‹
-
-[â€‹](https://fmhy.net/videopiracyguide#anime-downloading)
-TIP
+### Anime Downloading
 
 Useredirect bypassersto skip link shorteners
 
@@ -1473,14 +1435,7 @@ Useredirect bypassersto skip link shorteners
 - [animdl](https://github.com/justfoolingaround/animdl), [Wrapper](https://github.com/RaitaroH/adl)
 [animdl](https://github.com/justfoolingaround/animdl)
 [Wrapper](https://github.com/RaitaroH/adl)
-### Educational Downloadingâ€‹
-
-[Educational Downloading](https://fmhy.net/edupiracyguide#downloading)
-[â€‹](https://fmhy.net/videopiracyguide#educational-downloading)
-## Torrent Appsâ€‹
-
-[â€‹](https://fmhy.net/videopiracyguide#torrent-apps)
-TIP
+### Educational Downloading
 
 Remember to get aVPNbefore torrenting
 
@@ -1560,9 +1515,8 @@ Remember to get aVPNbefore torrenting
 - [Iceetime](https://github.com/diericx/bevy), [RapidBay](https://github.com/hauxir/rapidbay)
 [Iceetime](https://github.com/diericx/bevy)
 [RapidBay](https://github.com/hauxir/rapidbay)
-### Stremio Toolsâ€‹
+### Stremio Tools
 
-[â€‹](https://fmhy.net/videopiracyguide#stremio-tools)
 - [Stremio Addons](https://www.stremio-addons.com/), [](https://www.reddit.com/r/StremioAddons/)
 [Stremio Addons](https://www.stremio-addons.com/)
 [](https://www.reddit.com/r/StremioAddons/)
@@ -1583,9 +1537,8 @@ Remember to get aVPNbefore torrenting
 [Simkl Stremio](https://simkl.com/apps/stremio/)
 - [Trakt Stremio](https://2ecbbd610840-trakt.baby-beamup.club/)
 [Trakt Stremio](https://2ecbbd610840-trakt.baby-beamup.club/)
-## Torrent Sitesâ€‹
+## Torrent Sites
 
-[â€‹](https://fmhy.net/videopiracyguide#torrent-sites)
 - [General Torrent Sites](https://fmhy.net/torrentpiracyguide)
 [General Torrent Sites](https://fmhy.net/torrentpiracyguide)
 - [1337x Movies](https://1337x.to/movie-library/1/)
@@ -1644,9 +1597,8 @@ Remember to get aVPNbefore torrenting
 [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod)
 - [srrextra](https://github.com/srrDB/srrextra)
 [srrextra](https://github.com/srrDB/srrextra)
-### Anime Torrentingâ€‹
+### Anime Torrenting
 
-[â€‹](https://fmhy.net/videopiracyguide#anime-torrenting)
 - [Nyaa](https://nyaa.si/), [2](https://nyaa.iss.one/), [3](https://nyaa.iss.ink/)
 [Nyaa](https://nyaa.si/)
 [2](https://nyaa.iss.one/)
@@ -1691,16 +1643,8 @@ Remember to get aVPNbefore torrenting
 - [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/), [ZeroNet Required](https://zeronet.io/)
 [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/)
 [ZeroNet Required](https://zeronet.io/)
-### Educational Torrentingâ€‹
+### Educational Torrenting
 
-[Educational Torrenting](https://fmhy.net/edupiracyguide#torrenting)
-[â€‹](https://fmhy.net/videopiracyguide#educational-torrenting)
-## Tracking / Discoveryâ€‹
-
-[â€‹](https://fmhy.net/videopiracyguide#tracking-discovery)
-### Database / Trackingâ€‹
-
-[â€‹](https://fmhy.net/videopiracyguide#database-tracking)
 - [Trakt](https://trakt.tv/), [Tools](https://fmhy.net/storage#trakt-tools)
 [Trakt](https://trakt.tv/)
 [Tools](https://fmhy.net/storage#trakt-tools)
@@ -1784,9 +1728,8 @@ Remember to get aVPNbefore torrenting
 [Taiga](https://taiga.moe/)
 - [JustWatch](https://www.justwatch.com/)
 [JustWatch](https://www.justwatch.com/)
-### Recommendationsâ€‹
+### Recommendations
 
-[â€‹](https://fmhy.net/videopiracyguide#recommendations)
 - [Movie Recs](https://rentry.co/MovieRecs)
 [Movie Recs](https://rentry.co/MovieRecs)
 - [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)
@@ -1862,9 +1805,8 @@ Remember to get aVPNbefore torrenting
 [Flixable](https://flixable.com/)
 - [Netflix Top 10](https://www.netflix.com/tudum/top10)
 [Netflix Top 10](https://www.netflix.com/tudum/top10)
-### Calendar / Upcomingâ€‹
+### Calendar / Upcoming
 
-[â€‹](https://fmhy.net/videopiracyguide#calendar-upcoming)
 - [Your Countdown To](https://yourcountdown.to/)
 [Your Countdown To](https://yourcountdown.to/)
 - [Movie Countdown](https://moviescountdown.com/), [TV](https://countdown.tv/), [Drama](https://dramacountdown.com/)
@@ -1893,9 +1835,8 @@ Remember to get aVPNbefore torrenting
 [DVDs Release Dates](https://www.dvdsreleasedates.com/)
 - [showRSS](https://showrss.info/)
 [showRSS](https://showrss.info/)
-## Subtitle Toolsâ€‹
+## Subtitle Tools
 
-[â€‹](https://fmhy.net/videopiracyguide#subtitle-tools)
 - [elSubtitle](https://www.elsubtitle.com/), [SubConverter](https://subconverter.com/), [Subtitle One](https://subtitleone.cc/), [Subtitle Tools](https://subtitletools.com/)
 [elSubtitle](https://www.elsubtitle.com/)
 [SubConverter](https://subconverter.com/)
@@ -1955,9 +1896,8 @@ Remember to get aVPNbefore torrenting
 [I am Scum](https://iamscum.wordpress.com/guides/)
 [Fansub Guide](https://unanimated.github.io/guides.htm)
 [Fansubbing Guide](https://guide.encode.moe/)
-### Download Subtitlesâ€‹
+### Download Subtitles
 
-[â€‹](https://fmhy.net/videopiracyguide#download-subtitles)
 - [Open Subtitles](https://opensubtitles.org/)
 [Open Subtitles](https://opensubtitles.org/)
 - [SubDL](https://subdl.com/)
@@ -2002,9 +1942,8 @@ Remember to get aVPNbefore torrenting
 [DownSub](https://downsub.com/)
 - [SaveSubs](https://www.savesubs.com/)
 [SaveSubs](https://www.savesubs.com/)
-## Helpful Sites / Toolsâ€‹
+## Helpful Sites / Tools
 
-[â€‹](https://fmhy.net/videopiracyguide#helpful-sites-tools)
 - [/r/Animepiracy Wiki](https://thewiki.moe/), [Awesome ACG](https://github.com/soruly/awesome-acg)
 [/r/Animepiracy Wiki](https://thewiki.moe/)
 [Awesome ACG](https://github.com/soruly/awesome-acg)
